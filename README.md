@@ -1,2 +1,13 @@
-# gh-react
-:green_heart: :construction: GitHub Actions &amp; React
+# Dev Portfolio
+
+:construction: IN DEVELOPMENT
+
+Portfolio to showcase my developer projects.
+
+## Tech Stack
+
+Using React and Vite.
+
+## License
+
+MIT licensed.
